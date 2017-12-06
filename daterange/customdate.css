@@ -1,0 +1,28 @@
+
+.ui-daterange-glow {
+    border: 2px solid rgba(100,100,100, .5); 
+    background-color: rgba(200,200,200, .75);
+    border-radius: .25em;
+}
+
+.ui-daterange-selected {
+    background-color: rgba(100,100,100,.5); 
+}
+
+.ui-daterange-selected a {
+    background-color: rgba(100,100,100,.5) !important;  
+    color: white !important;
+}
+
+
+.ui-daterange-calendar {}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+	border: 1px solid transparent;
+    background-image: none;
+	font-weight: normal;
+	color: #555555;
+}
+

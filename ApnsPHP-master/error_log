@@ -1,0 +1,6 @@
+[11-May-2015 09:39:21 Europe/Rome] PHP Fatal error:  Uncaught exception 'ApnsPHP_Exception' with message 'Unable to read certificate file 'server_certificates_bundle_sandbox.pem'' in /home3/tags/public_html/demo/candy/api/ApnsPHP-master/ApnsPHP/Abstract.php:92
+Stack trace:
+#0 /home3/tags/public_html/demo/candy/api/ApnsPHP-master/ApnsPHP/Push/Server.php(61): ApnsPHP_Abstract->__construct(1, 'server_certific...')
+#1 /home3/tags/public_html/demo/candy/api/ApnsPHP-master/sample_server.php(35): ApnsPHP_Push_Server->__construct(1, 'server_certific...')
+#2 {main}
+  thrown in /home3/tags/public_html/demo/candy/api/ApnsPHP-master/ApnsPHP/Abstract.php on line 92
