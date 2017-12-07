@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '';
+$config['base_url']	= 'ec2-34-208-143-61.us-west-2.compute.amazonaws.com';
 
 /*
 |--------------------------------------------------------------------------
