@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.php
-    destination: /var/www/html/
+  - source: /Stynite/index.php
+    destination: /var/www/Stynite/
